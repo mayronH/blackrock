@@ -2,10 +2,11 @@
   "name": "blackrock-theme",
   "displayName": "BlackRock Theme",
   "description": "BlackRock Theme. A simple theme with a very dark blue background and pastel colors for syntax highlight.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Mayron Henrique",
   "publisher": "mayronH",
   "homepage": "https://github.com/mayronH/blackrock/blob/main/README.md",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.70.0"
   },
