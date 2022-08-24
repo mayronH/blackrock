@@ -165,7 +165,7 @@
     "gitDecoration.conflictingResourceForeground": "#6791c9",
     "gitDecoration.deletedResourceForeground": "#df5b61",
     "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-    "gitDecoration.modifiedResourceForeground": "#de8f78",
+    "gitDecoration.modifiedResourceForeground": "#70b9cc",
     "gitDecoration.stageDeletedResourceForeground": "#df5b61",
     "gitDecoration.stageModifiedResourceForeground": "#de8f78",
     "gitDecoration.submoduleResourceForeground": "#bc83e3",
@@ -235,9 +235,9 @@
 		"charts.orange": "#de8f78",
 		"charts.purple": "#bc83e3",
 		"charts.red": "#df5b61",
-		"charts.yellow": "#ffdf40",
+		"charts.yellow": "#eed55b",
     "editorBracketHighlight.foreground1": "#87c7a1",
-		"editorBracketHighlight.foreground2": "#ffdf40",
+		"editorBracketHighlight.foreground2": "#eed55b",
 		"editorBracketHighlight.foreground3": "#70b9cc",
 		"editorBracketHighlight.foreground4": "#bc83e3",
 		"editorBracketHighlight.foreground5": "#FF9EE7",
@@ -300,7 +300,7 @@
     {
       "scope": ["variable.language.this", "variable.language.self"],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -452,7 +452,7 @@
         "storage.type.variable.cs"
       ],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -630,7 +630,7 @@
     {
       "scope": ["support.type.object.console"],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -666,7 +666,7 @@
     {
       "scope": ["meta.type.cast.expr", "meta.type.new.expr", "support.constant.math", "support.constant.dom"],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -685,7 +685,7 @@
         "comment.block.documentation entity.name.type"
       ],
       "settings": {
-        "foreground": "#ffe14d",
+        "foreground": "#eed55b",
         "fontStyle": "italic"
       }
     },
@@ -940,7 +940,7 @@
     {
       "scope": ["source.shell variable.other"],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -993,7 +993,7 @@
         "text.html.markdown punctuation.definition.tag"
       ],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -1135,7 +1135,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.end"
       ],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -1179,7 +1179,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value string.quoted"
       ],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -1207,7 +1207,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json punctuation.support.type.property-name.end"
       ],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
@@ -1251,7 +1251,7 @@
         "meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value string.quoted"
       ],
       "settings": {
-        "foreground": "#ffe14d"
+        "foreground": "#eed55b"
       }
     },
     {
