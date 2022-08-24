@@ -1,0 +1,27 @@
+{
+  "name": "blackrock-theme",
+  "displayName": "BlackRock Theme",
+  "description": "BlackRock Theme. A simple theme with a very dark blue background and pastel colors for syntax highlight.",
+  "version": "1.0.0",
+  "author": "Mayron Henrique",
+  "publisher": "mayronH",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayronH/blackrock"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Rock",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Rock-color-theme.json"
+      }
+    ]
+  }
+}
