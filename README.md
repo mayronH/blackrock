@@ -1,6 +1,6 @@
 # BlackRock Theme
 
-![Screenshot Home](screenshot.png)
+![Screenshot Home](https://raw.githubusercontent.com/mayronH/blackrock/main/docs/screenshot.png)
 
 ## Description
 
