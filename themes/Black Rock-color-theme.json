@@ -94,9 +94,8 @@
     "editor.lineHighlightBorder": "#14181f",
     "editorLineNumber.activeForeground": "#c4c4c4",
     "editorLink.activeForeground": "#4e94ce",
-    "editorIndentGuide.background": "#c4c4c4",
-    "editorIndentGuide.activeBackground": "#707070",
-    "editorRuler.foreground": "#5a5a5a",
+    "editorIndentGuide.background": "#B4BBC829",
+    "editorIndentGuide.activeBackground": "#5C6673",
     "editorBracketMatch.background": "#14181f",
 		"editorBracketMatch.border": "#00000000",
     "editor.foldBackground": "#264f784d",
@@ -784,7 +783,7 @@
         "support.other.chomping-indicator.yaml"
       ],
       "settings": {
-        "foreground": "#de8f78"
+        "foreground": "#6791c9"
       }
     },
     {

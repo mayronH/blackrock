@@ -4,6 +4,12 @@ All notable changes to the "BlackRock" extension will be documented in this file
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+
+## [1.3.0]
+
+- Change CSS variable from red to dark blue
+- Change IndentGuide to lighter color
+
 ## [1.2.0]
 
 - Change the gitDecoration.conflictingResourceForeground color to orange
